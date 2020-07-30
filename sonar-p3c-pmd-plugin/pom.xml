@@ -8,7 +8,7 @@
     <version>3.2.1</version>
   </parent>
 
-  <artifactId>sonar-pmd-plugin</artifactId>
+  <artifactId>sonar-p3c-pmd-plugin</artifactId>
   <packaging>sonar-plugin</packaging>
 
   <name>SonarQube PMD Plugin</name>
